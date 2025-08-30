@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/abhiramavarma"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/<!-- TODO: your-linkedin -->"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:<!-- TODO: your-email -->"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email"></a>
+  <a href="www.linkedin.com/in/abhiramavarma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abhiramavarma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=abhiramavarma&style=flat&color=blue" alt="Profile views"/>
 </p>
 
@@ -88,8 +88,8 @@
 ## 🤝 Let’s Connect
 
 * 💼 LinkedIn: www.linkedin.com/in/abhiramavarma
-* 🌐 Portfolio: <!-- TODO: link -->
-* ✉️ Email: <!-- TODO: email -->
+* 🌐 Portfolio: [Abhi](https://myportfolio-ashen-kappa.vercel.app/)
+* ✉️ Email: abhiramavarma@gmail.com
 * 🧩 LeetCode: [https://leetcode.com/abhiramavarma/](https://leetcode.com/abhiramavarma/)
 * 🧠 GFG: [https://www.geeksforgeeks.org/user/abhiramwwz7/](https://www.geeksforgeeks.org/user/abhiramwwz7/)
 * 🧪 CodeChef: [https://www.codechef.com/users/abhiramavarma](https://www.codechef.com/users/abhiramavarma)
