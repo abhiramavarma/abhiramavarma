@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;QA+%26+Test+Automation+Enthusiast;Full+Stack+Developer;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Passionate+about+DSA+%26+Problem+Solving;Full+Stack+Developer;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@
 
 ## 🚀 About Me
 
-👨‍💻 Passionate software engineer with interests spanning software development, testing, and problem solving.  
+👨‍💻 Passionate software engineer with interests spanning **AI/ML, software development, and DSA problem solving**.  
 
 🎓 Currently pursuing B.Tech in Computer Science and Engineering (AI & ML).  
 
-💡 Enjoy working on projects that combine logical reasoning, coding, and automation to build efficient solutions.  
+💡 Enjoy working on projects that combine algorithms, data structures, and machine learning to solve real-world problems.  
 
 🌱 Continuously learning new tools, frameworks, and best practices to grow as a developer.  
 
@@ -87,21 +87,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abhiramavarma&theme=tokyonight" height="165" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiramavarma&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<!-- Random Dev Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/abhiramavarma/abhiramavarma/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <p align="center">✨ ✨ ✨</p>
