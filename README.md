@@ -25,19 +25,6 @@
 * 🧪 Currently exploring **Selenium, PyTest, JUnit**, and **SQL-based validation**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="300" alt="Coding animation"/>
-</p>
-
----
-
-## 🔑 Highlights
-
-* 🛠 Built and shipped: **Mock Interview AI**, **PrioritizeAI**, **VeriFace**
-* 🧪 Designing an **Automatic Test Case Generation** prototype (NLP → Test cases → Selenium/PyTest execution)
-* 🗄 Solid with **SQL** for data validation and backend testing
-* 🧰 Comfortable with **Python, Java, JavaScript**, REST APIs, and CI basics
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer working animation"/>
 </p>
 
