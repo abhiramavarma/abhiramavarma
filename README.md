@@ -87,7 +87,7 @@
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: <!-- TODO: link -->
+* 💼 LinkedIn: www.linkedin.com/in/abhiramavarma
 * 🌐 Portfolio: <!-- TODO: link -->
 * ✉️ Email: <!-- TODO: email -->
 * 🧩 LeetCode: [https://leetcode.com/abhiramavarma/](https://leetcode.com/abhiramavarma/)
