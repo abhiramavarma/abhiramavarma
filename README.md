@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhirama%20Varma%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nandayal%20Abhirama%20Varma%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
 # Hi, I'm Abhirama Varma 👋
