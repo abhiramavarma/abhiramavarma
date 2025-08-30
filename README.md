@@ -19,10 +19,15 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (AI & ML) @ GRIET | CGPA 8.9
-* 💼 Aspiring Consulting Developer | QA & Test Automation | Backend
-* 🔍 Interested in data-centric testing, automation frameworks, and scalable web systems
-* 🧪 Currently exploring **Selenium, PyTest, JUnit**, and **SQL-based validation**
+👨‍💻 Passionate software engineer with interests spanning software development, testing, and problem solving.
+
+🎓 Currently pursuing B.Tech in Computer Science and Engineering (AI & ML).
+
+💡 Enjoy working on projects that combine logical reasoning, coding, and automation to build efficient solutions.
+
+🌱 Continuously learning new tools, frameworks, and best practices to grow as a developer.
+
+🤝 Open to collaborations, internships, and opportunities to contribute to impactful projects.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer working animation"/>
