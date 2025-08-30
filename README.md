@@ -64,27 +64,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-* **Mock Interview AI** · Full-stack conversational interview practice
-
-  * React · Node.js · PostgreSQL · TypeScript · Gemini
-  * [Live](https://mock-interview-ai.vercel.app/) · [Code](https://github.com/abhiramavarma/mock-interview-ai)
-
-* **PrioritizeAI** · ML-based task ranking
-
-  * Flask · scikit-learn · MySQL
-  * [Code](https://github.com/abhiramavarma/prioritize-ai)
-
-* **VeriFace** · Real-time attendance with liveness
-
-  * Python · OpenCV · Streamlit · WebRTC
-  * [Code](https://github.com/abhiramavarma/VeriFace)
-
-* **Automatic Test Case Generation** · Proto
-
-  * Python · Selenium · PyTest · SQL
-  * <!-- TODO: add repo link when ready -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Automation animation"/>
@@ -92,25 +71,6 @@
 
 ---
 
-## 💼 Experience
-
-**AI/ML Intern — Infosys Springboard**
-*Aug 2025 – Oct 2025 · Remote*
-
-* Built segmentation pipeline (U-Net/CNN) for SAR images
-* Wrote evaluation & verification scripts (IoU, Dice) and automated metric checks
-* Deployed a simple web app for results and demos
-
----
-
-## 🏆 Certifications & Achievements
-
-* 2nd — Coding Premier League (intra-college)
-* 3rd — Generative AI Hackathon
-* Smart Coder badge (SmartInterviews)
-* 600+ LeetCode problems
-
----
 
 ## 📊 GitHub Stats
 
