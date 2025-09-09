@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-025E8C?logo=HTML&logoColor=white" />
+
 </p>
 
 **Frameworks & Tools**
@@ -60,9 +62,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
