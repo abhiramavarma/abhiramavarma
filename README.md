@@ -9,6 +9,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hi animated hand"/>
 </p>
 
+
+
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Passionate+about+DSA+%26+Problem+Solving;Full+Stack+Developer;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
