@@ -52,7 +52,8 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-025E8C?logo=HTML&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-025E8C?logo=HTML&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-025E8C?logo=CSS&logoColor=white" />
 
 </p>
 
