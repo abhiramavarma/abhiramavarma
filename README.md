@@ -101,7 +101,7 @@
 ## 🤝 Let’s Connect
 
 * 💼 LinkedIn: [www.linkedin.com/in/abhiramavarma](https://www.linkedin.com/in/abhiramavarma/)  
-* 🌐 Portfolio: [Abhi](https://myportfolio-ashen-kappa.vercel.app/)  
+* 🌐 Portfolio: [Abhi](https://abhiramavarma.vercel.app/)  
 * ✉️ Email: abhiramavarma@gmail.com  
 * 🧩 LeetCode: [https://leetcode.com/abhiramavarma/](https://leetcode.com/abhiramavarma/)  
 * 🧠 GFG: [https://www.geeksforgeeks.org/user/abhiramwwz7/](https://www.geeksforgeeks.org/user/abhiramwwz7/)  
